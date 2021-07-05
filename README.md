@@ -1,6 +1,3 @@
-### Kevin Kissi
-
-
 class KevinKissi(self):
         self.username = 'kevin-kissi'
         self.name = 'Kevin Kissi'
