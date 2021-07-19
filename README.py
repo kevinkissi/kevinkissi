@@ -5,9 +5,9 @@ class KevinKissi(self):
         self.twitter = '@kevinkissi'
         self.linkedin = 'https://www.linkedin.com/in/kissi'
         self.source = {
-            'born': ['Accra','Ghana'],
+            'born': ['Accra, Ghana'],
             'I have lived': ['Accra', 'San Francisco', 'Minneapolis', 'Fargo'],
-            'Where I live': ['Minneapolis','Minnesota'],
+            'Where I live': ['Minneapolis, Minnesota'],
         }
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','Node.Js','React'],
