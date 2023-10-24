@@ -6,15 +6,15 @@ class KevinKissi(self):
         self.linkedin = 'https://www.linkedin.com/in/kissi'
         self.source = {
             'born': ['Accra, Ghana'],
-            'I have lived': ['Accra', 'San Francisco', 'Minneapolis', 'Fargo'],
+            'I have lived': ['Accra', 'Atlanta','San Francisco', 'Minneapolis', 'Fargo'],
             'Where I live': ['Minneapolis, Minnesota'],
         }
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','Node.Js','React'],
             'backend': ['Python','C#', 'PHP', 'Java', 'Django'],
             'database': ['PostgreSQL', 'MySQL', 'Casandra', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'AWS', 'Azure', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas'],
+            'devops': ['Docker', 'Terraforms', 'AWS', 'Azure', 'Heroku'],
+            'tools': ['You name it'],
             'misc': ['Firebase', 'SCRUM', 'GNU/Linux']
         }
         self.architecture = ['MVC', 'Microservices']
