@@ -7,7 +7,7 @@ class KevinKissi(self):
         self.source = {
             'born': ['Accra, Ghana'],
             'I have lived': ['Accra', 'Atlanta','San Francisco', 'Minneapolis', 'Fargo'],
-            'Where I live': ['Minneapolis, Minnesota'],
+            'Where I live': ['San Francisco, Ca'],
         }
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','Node.Js','React'],
